@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 238, 238);
+margin: 0%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.quadrada {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+}
